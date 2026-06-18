@@ -22,3 +22,5 @@
   24 git remote -v                                                                                
   25 clear                                                                                        
   26 git push origin master 
+
+This is new changes added in commands text file
