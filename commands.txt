@@ -1,0 +1,24 @@
+2 GIT INIT                                                                                     
+   3 git init                                                                                     
+   4 git status                                                                                   
+   5 git add tasting.py                                                                           
+   6 git add testing.py                                                                           
+   7 ls                                                                                           
+   8 clear                                                                                        
+   9 git status                                                                                   
+  10 git add commands.txt                                                                         
+  11 clear                                                                                        
+  12 git commit -m "commands"                                                                     
+  13 git commit -m  "testing"                                                                     
+  14 clear                                                                                        
+  15 git status                                                                                   
+  16 clear 
+  clear                                                                                        
+  19 git remote -v                                                                                
+  20 git remote add origin https://github.com/laxyaa05/github-for-devops.git                      
+  21 git remote -v                                                                                
+  22 git remote set-url https://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@github.com/laxyaa05/gi...
+  23 git remote set-url origin https://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@github.com/laxy...
+  24 git remote -v                                                                                
+  25 clear                                                                                        
+  26 git push origin master 
